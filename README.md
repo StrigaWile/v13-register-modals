@@ -7,12 +7,12 @@ Arkadaşlar güncel olarak kullandığım bir kaç sistemi paylaşmak istedim. U
 # KURULUMU;
 
 > Yapmanız Gerekenler
-\nÖNEMLİ Notlar: GLITCH'e uygun değildir, lütfen bana bunu sormayın. | Node.js'i bilgisayarınıza kurmanız gerekmektedir.
-\n1- Powershell'i açın.
-\n2- Powershell'e npm install yazın, gerekilen dosyalar indirilmiş olacaktır.
-\n3- Kurulumdan sonra `ClientSettings.js` dosyasından tokeninizi girin.  
-\n4- `Role&Permissions&Logs.json` dosyasına belirtilmiş kanalları & roller girin.
-\n5- Terminalden `node .` yazdığınızda botunuz başarıyla çalışmış olacaktır iyi günler.
+ÖNEMLİ Notlar: GLITCH'e uygun değildir, lütfen bana bunu sormayın. | Node.js'i bilgisayarınıza kurmanız gerekmektedir.
+1- Powershell'i açın.
+2- Powershell'e npm install yazın, gerekilen dosyalar indirilmiş olacaktır.
+3- Kurulumdan sonra `ClientSettings.js` dosyasından tokeninizi girin.  
+4- `Role&Permissions&Logs.json` dosyasına belirtilmiş kanalları & roller girin.
+5- Terminalden `node .` yazdığınızda botunuz başarıyla çalışmış olacaktır iyi günler.
 
 
 Modals ile kayıt yapabildiğiniz v13 basit kurulumlu bir discord projesidir.
