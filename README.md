@@ -6,12 +6,18 @@ Arkadaşlar güncel olarak kullandığım bir kaç sistemi paylaşmak istedim. U
 
 # KURULUMU;
 
-> Yapmanız Gerekenler
+> **Yapmanız Gerekenler**
+<br>
 > ÖNEMLİ Notlar: GLITCH'e uygun değildir, lütfen bana bunu sormayın. | Node.js'i bilgisayarınıza kurmanız gerekmektedir.
+<br>
 > 1- Powershell'i açın.
+<br>
 > 2- Powershell'e npm install yazın, gerekilen dosyalar indirilmiş olacaktır.
+<br>
 > 3- Kurulumdan sonra `ClientSettings.js` dosyasından tokeninizi girin.  
+<br>
 > 4- `Role&Permissions&Logs.json` dosyasına belirtilmiş kanalları & roller girin.
+<br>
 > 5- Terminalden `node .` yazdığınızda botunuz başarıyla çalışmış olacaktır iyi günler.
 
 
