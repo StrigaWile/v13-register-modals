@@ -19,8 +19,12 @@ Arkadaşlar güncel olarak kullandığım bir kaç sistemi paylaşmak istedim. U
 <br>
 5- Terminalden node . yazdığınızda botunuz başarıyla çalışmış olacaktır iyi günler.
 
-
+<br>
+<br>
 Modals ile kayıt yapabildiğiniz v13 basit kurulumlu bir discord projesidir.
+<br>
 ![modals1](https://user-images.githubusercontent.com/68235392/182917347-eb2bcbeb-9f8c-4426-aedd-bfdce2bc074b.png)
+<br>
 ![modals2](https://user-images.githubusercontent.com/68235392/182917357-95910f93-ef9b-4d0e-9570-58add813266b.png)
+<br>
 ![modals3](https://user-images.githubusercontent.com/68235392/182917369-1f242929-d58a-4745-8c35-9165af33e564.png)
