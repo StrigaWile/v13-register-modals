@@ -6,7 +6,7 @@ Arkadaşlar güncel olarak kullandığım bir kaç sistemi paylaşmak istedim. U
 
 # KURULUMU;
 
-> *Yapmanız Gerekenler*
+> *Yapmanız Gerekenler* <br>
 > ÖNEMLİ Notlar: GLITCH'e uygun değildir, lütfen bana bunu sormayın. | Node.js'i bilgisayarınıza kurmanız gerekmektedir.
 <br>
 > 1- Powershell'i açın.
