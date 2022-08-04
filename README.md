@@ -1,4 +1,10 @@
-# GÜNCEL KULLANDIĞIM KAYIT SİSTEMİ;
+# Selam Dostlar Ben Striga
+Arkadaşlar güncel olarak kullandığım bir kaç sistemi paylaşmak istedim. Umarım en kısa sürede sizlere çoğunu Github üzerinden ulaştıracağım. Neden bunu yaptığımı soracak olursanız keyfi keder.
+
+# PAYLAŞIM TARİHİ;
+**75 Starda görüşürüz arkadaşlar.**
+
+# KURULUMU;
 
 > Yapmanız Gerekenler
 ÖNEMLİ Notlar: GLITCH'e uygun değildir, lütfen bana bunu sormayın. | Node.js'i bilgisayarınıza kurmanız gerekmektedir.
